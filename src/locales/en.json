@@ -1,0 +1,81 @@
+{
+    "Bienvenida": "Welcome",
+    "Noticias": "News",
+    "Idioma":"Language",
+    "Configuracion":"Settings",
+    "Sesion":"Logout",
+    "Goback":"back to my session",
+    "Close":"Close",
+    "Save":"Save",
+    "Back":"Back",
+    "Continue":"Continue",
+    "Pefil-usuario":{
+        "Titulo":"Profile",
+        "Estatus":"Status:",
+        "Emplid":"ID:",
+        "Nombre":"Fullname:",
+        "Ingreso":"Hire date:",
+        "Puesto":"Position:",
+        "Departamento":"Department:",
+        "Area":"Area:",
+        "Antiguedad":"Antiquity:",
+        "Responsable":"Leader:",
+        "Horario":"work schedule:",
+        "IMSS":"-:",
+        "RFC":"-:",
+        "CURP":"-:",
+        "Locker":"-:",
+        "Turno":"Turno:",
+        "Grupo":"Grupo:"
+    },
+    "Home":{
+        "H1":"News",
+        "H2":"Culture",
+        "H3":"Continuous improvement",
+        "H4":"Notifications",
+        "S1":"Nothing new",
+        "S2":"Sin notificaciones nuevas"
+    },
+    "NewUser":{
+        "H1":"User Signup",
+        "Field1":"Full name",
+        "Field2":"E-mail",
+        "Field3":"NickName",
+        "Field4":"Password",
+        "Field5":"Profile",
+        "Field6":"Sistem",
+        "Field7":"Employe Number",
+        "Field8":"Adm",
+        "Field9":"Op"
+    },
+    "ActiveUsers":{
+        "H1":"Users"
+    },
+    "UserInfo":{
+        "H1":"User profile",
+        "Field1":"Permissions",
+        "Field2":"Fire employe",
+        "Field3":"Fecha de Despido:",
+        "Field4":"Fecha de Baja:",
+        "Field5":"General Reason:",
+        "Field6":"Reason 1:",
+        "Field7":"Reason 2:",
+        "Field8":"Estatus",
+        "Field9":"Coments",
+        "Field10":"Save",
+        "Field11":"Log in as",
+        "Savec":"Save changes"
+    },
+    "News":{
+        "H1":"News",
+        "Title":"Title",
+        "Descr":"Description",
+        "Image":"Image",
+        "Pick":"Pick an image",
+        "Calendar":"Publish date"
+    },
+    "Calendar":{
+        "H1":"Calendario de incidencias",
+        "Today":"Hoy"
+    }
+}

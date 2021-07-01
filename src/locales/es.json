@@ -1,0 +1,16 @@
+{
+    "New":{
+        "H1":"Solicitar nueva posición",
+        "Field1":"Nombre de la vacante",
+        "Field2":"¿Donde?",
+        "Field3":"Salario mínimo",
+        "Field4":"Salario máximo",
+        "Field5":"Nivel de ingles",
+        "Field6":"Experiencia",
+        "Field7":"Escolaridad",
+        "Field8":"Tipo",
+        "Field9":"Competencia",
+        "Field10":"Ponderación",
+        "Field11":"Descripción"
+    }
+}
